@@ -1,7 +1,7 @@
 body{
     box-sizing: border-box;
     background-color: rgb(252, 245, 245);
-    height: 400vh;
+    height: 250vh;
 }
 
 .container{
@@ -329,6 +329,7 @@ overflow-x: hidden;
     border-radius: 5px;
     align-items: center;
     justify-items: center;
+    overflow:"none";
 }
 .faqblue{
     background-color: rgb(38, 83, 179);
